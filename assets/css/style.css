@@ -5,8 +5,6 @@ header {
 	border-color: #cccccc;
 	border-bottom-style: solid;
 	border-width: 2px;
-	margin: 0;
-	padding: 0;
 	width: 100%;
 
 }
@@ -14,6 +12,8 @@ header {
 
 body {
 	background-image: url("../images/contemporary_china_2.png");
+	padding: 0;
+	margin: 0;
 }
 
 section {
@@ -33,7 +33,7 @@ section {
 nav {
 	height: 86.8px;
 	float: right;
-	padding-right: 365px;
+	padding-right: 375px;
 
 }
 
@@ -86,6 +86,7 @@ aside {
 
 }
 
+
 #list {
 	border-right-style: solid;
 	border-right-width: 1px;
@@ -100,9 +101,38 @@ aside {
 	border-color: #dddddd;
 	padding: 0 0 25px;
 	text-align: center;
-
-
 }
+
+.overlap {
+	
+}
+
+h4 {
+	
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	background: #4aaaa5;
+	color: white;
+	width: 285px;
+	height: 45px;
+	text-align: center;
+	padding-top: 25px;
+	position: absolute;
+	left: 0px;
+}
+
+#port {
+	clear: left;
+	width: 606px;
+	color: #777777;
+	background: #ffffff;
+	border: solid;
+	border-color: #dddddd;
+	background: #ffffff;
+	margin: 25px 25px 25px 150px;
+	padding: 0 20px 0 20px;
+	
+} 
+
 footer {
 	clear: left;
 	border-top-style: solid;
