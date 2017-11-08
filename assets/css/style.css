@@ -135,6 +135,51 @@ h4 {
 	
 } 
 
+
+input[value="John Smith"] {
+	color: #777777;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+
+input[value="example@gmail.com"] {
+	color: #777777;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+
+input[name="message"] {
+	color: #777777;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-bottom: 150px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+
+}
+
+input[value="Submit"] {
+	font-size: 16px;
+	color: white;
+	width: 100px;
+	background-color: #4aaaa5;
+	border: 0;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	word-wrap: normal;
+
+}
+
 footer {
 	clear: left;
 	border-top-style: solid;
