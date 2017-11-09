@@ -16,7 +16,7 @@ body {
 	background-image: url("../images/contemporary_china_2.png");
 	padding: 0;
 	margin: 0;
-	
+
 }
 
 section {
@@ -37,7 +37,7 @@ nav {
 	height: 86.8px;
 	float: right;
 	padding-right: 375px;
-
+	
 }
 
 li {
@@ -77,6 +77,7 @@ aside {
 	margin: 0 0 0 150px;
 	max-width: 250px;
 	float: left;
+	position: fixed;
 }
 
 #aboutme {
