@@ -6,6 +6,8 @@ header {
 	border-bottom-style: solid;
 	border-width: 2px;
 	width: 100%;
+	position: fixed;
+	z-index: 5;
 
 }
 
@@ -26,7 +28,7 @@ section {
 	border: solid;
 	border-color: #dddddd;
 	background: #ffffff;
-	margin: 25px 25px 25px 150px;
+	margin: 125px 25px 25px 150px;
 	padding: 0 20px 0 20px;
 	float: left;
 }
@@ -60,7 +62,7 @@ aside {
 	border: solid;
 	border-color: #dddddd;
 	margin-left: 50px;
-	margin-top: 25px;
+	margin-top: 125px;
 	padding: 0 25px 25px 25px;
 	width: 216px;
 	text-align: center;
@@ -132,7 +134,7 @@ h4 {
 	border: solid;
 	border-color: #dddddd;
 	background: #ffffff;
-	margin: 25px 25px 25px 150px;
+	margin: 125px 25px 25px 150px;
 	padding: 0 20px 0 20px;
 	
 } 
@@ -192,5 +194,7 @@ footer {
 	text-align: center;
 	background: #666666;
 	padding: 20px;
+	width: 100%;
 	
+
 }
